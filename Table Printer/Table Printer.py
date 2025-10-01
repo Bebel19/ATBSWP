@@ -46,11 +46,11 @@ def printTable(table):
     colWidths = [0] * len(table)
 
     lengthsList = findLongestString(table)
-    longestLenghts = max(lengthsList)
+    longestLenght = max(lengthsList)
 
     for colIndex in range(len(table[0])):
         for lineIndex in range(len(colWidths)):
-            print(f"{table[lineIndex][colIndex]}".center(longestLenghts), end="\t")
+            print(f"{table[lineIndex][colIndex]}".center(longestLenght), end="\t")
 
         print("\n")
 
