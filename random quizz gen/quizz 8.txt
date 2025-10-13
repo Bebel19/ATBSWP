@@ -1,0 +1,375 @@
+What is the capital of Hawaii?
+
+Honolulu
+Annapolis
+
+What is the capital of Idaho?
+
+Montgomery
+
+Boise
+What is the capital of North Dakota?
+
+Frankfort
+
+Bismarck
+What is the capital of Wisconsin?
+
+Providence
+
+Madison
+What is the capital of Rhode Island?
+
+Providence
+Columbia
+
+What is the capital of Indiana?
+
+Indianapolis
+Albany
+
+What is the capital of Maryland?
+
+Lincoln
+
+Annapolis
+What is the capital of Michigan?
+
+Trenton
+
+Lansing
+What is the capital of Massachusetts?
+
+Concord
+
+Boston
+What is the capital of New York?
+
+Frankfort
+
+Albany
+What is the capital of West Virginia?
+
+Charleston
+Des Moines
+
+What is the capital of Utah?
+
+Salt Lake City
+Atlanta
+
+What is the capital of Arizona?
+
+Phoenix
+Nashville
+
+What is the capital of Pennsylvania?
+
+Cheyenne
+
+Harrisburg
+What is the capital of Georgia?
+
+Carson City
+
+Atlanta
+What is the capital of Kansas?
+
+Tallahassee
+
+Topeka
+What is the capital of North Carolina?
+
+Raleigh
+Frankfort
+
+What is the capital of Oregon?
+
+Little Rock
+
+Salem
+What is the capital of Arkansas?
+
+Oklahoma City
+
+Little Rock
+What is the capital of Maine?
+
+Lincoln
+
+Augusta
+What is the capital of Tennessee?
+
+Dover
+
+Nashville
+What is the capital of Florida?
+
+Austin
+
+Tallahassee
+What is the capital of Missouri?
+
+Richmond
+
+Jefferson City
+What is the capital of Colorado?
+
+Frankfort
+
+Denver
+What is the capital of Nevada?
+
+Carson City
+Pierre
+
+What is the capital of Nebraska?
+
+Olympia
+
+Lincoln
+What is the capital of Oklahoma?
+
+Augusta
+
+Oklahoma City
+What is the capital of Texas?
+
+Austin
+Des Moines
+
+What is the capital of West Virginia?
+
+Charleston
+Indianapolis
+
+What is the capital of Virginia?
+
+Annapolis
+
+Richmond
+What is the capital of Washington?
+
+Olympia
+Santa Fe
+
+What is the capital of Michigan?
+
+Lansing
+Indianapolis
+
+What is the capital of Wisconsin?
+
+Madison
+Helena
+
+What is the capital of Oregon?
+
+Salem
+Tallahassee
+
+What is the capital of Pennsylvania?
+
+Harrisburg
+Santa Fe
+
+What is the capital of North Carolina?
+
+Raleigh
+Dover
+
+What is the capital of Mississippi?
+
+Jackson
+Santa Fe
+
+What is the capital of Colorado?
+
+Denver
+Topeka
+
+What is the capital of Hawaii?
+
+Des Moines
+
+Honolulu
+What is the capital of Arkansas?
+
+Little Rock
+Pierre
+
+What is the capital of Ohio?
+
+Columbus
+Trenton
+
+What is the capital of Indiana?
+
+Pierre
+
+Indianapolis
+What is the capital of Delaware?
+
+Dover
+Frankfort
+
+What is the capital of Nevada?
+
+Boston
+
+Carson City
+What is the capital of Iowa?
+
+Pierre
+
+Des Moines
+What is the capital of Alaska?
+
+Juneau
+Albany
+
+What is the capital of Utah?
+
+Springfield
+
+Salt Lake City
+What is the capital of South Dakota?
+
+Helena
+
+Pierre
+What is the capital of Georgia?
+
+Providence
+
+Atlanta
+What is the capital of Alabama?
+
+Montgomery
+Bismarck
+
+What is the capital of Idaho?
+
+Tallahassee
+
+Boise
+What is the capital of Delaware?
+
+Little Rock
+
+Dover
+What is the capital of Rhode Island?
+
+Providence
+Santa Fe
+
+What is the capital of Oregon?
+
+Salem
+Albany
+
+What is the capital of Texas?
+
+Harrisburg
+
+Austin
+What is the capital of Arizona?
+
+Springfield
+
+Phoenix
+What is the capital of Montana?
+
+Oklahoma City
+
+Helena
+What is the capital of Kentucky?
+
+Frankfort
+Honolulu
+
+What is the capital of West Virginia?
+
+Charleston
+Jefferson City
+
+What is the capital of Mississippi?
+
+Jackson
+Sacramento
+
+What is the capital of New Hampshire?
+
+Denver
+
+Concord
+What is the capital of Alaska?
+
+Juneau
+Nashville
+
+What is the capital of Florida?
+
+Tallahassee
+Raleigh
+
+What is the capital of New York?
+
+Annapolis
+
+Albany
+What is the capital of Wyoming?
+
+Sacramento
+
+Cheyenne
+What is the capital of North Carolina?
+
+Raleigh
+Saint Paul
+
+What is the capital of New Mexico?
+
+Hartford
+
+Santa Fe
+What is the capital of California?
+
+Nashville
+
+Sacramento
+What is the capital of Maine?
+
+Montpelier
+
+Augusta
+What is the capital of Nevada?
+
+Trenton
+
+Carson City
+What is the capital of Maryland?
+
+Bismarck
+
+Annapolis
+What is the capital of Indiana?
+
+Indianapolis
+Topeka
+
+What is the capital of Virginia?
+
+Lansing
+
+Richmond
+What is the capital of Louisiana?
+
+Baton Rouge
+Columbia
+
+What is the capital of South Carolina?
+
+Olympia
+
+Columbia

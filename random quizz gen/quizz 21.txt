@@ -1,0 +1,375 @@
+What is the capital of Alabama?
+
+Des Moines
+
+Montgomery
+What is the capital of New Hampshire?
+
+Concord
+Boise
+
+What is the capital of Florida?
+
+Tallahassee
+Nashville
+
+What is the capital of Iowa?
+
+Des Moines
+Bismarck
+
+What is the capital of Georgia?
+
+Atlanta
+Dover
+
+What is the capital of Nevada?
+
+Providence
+
+Carson City
+What is the capital of Arizona?
+
+Phoenix
+Trenton
+
+What is the capital of Arkansas?
+
+Charleston
+
+Little Rock
+What is the capital of South Carolina?
+
+Columbia
+Cheyenne
+
+What is the capital of Alaska?
+
+Salem
+
+Juneau
+What is the capital of Wisconsin?
+
+Austin
+
+Madison
+What is the capital of Michigan?
+
+Jefferson City
+
+Lansing
+What is the capital of Kansas?
+
+Topeka
+Cheyenne
+
+What is the capital of Texas?
+
+Austin
+Olympia
+
+What is the capital of Kentucky?
+
+Raleigh
+
+Frankfort
+What is the capital of Hawaii?
+
+Pierre
+
+Honolulu
+What is the capital of Illinois?
+
+Bismarck
+
+Springfield
+What is the capital of Montana?
+
+Santa Fe
+
+Helena
+What is the capital of Louisiana?
+
+Baton Rouge
+Trenton
+
+What is the capital of Tennessee?
+
+Montpelier
+
+Nashville
+What is the capital of Wyoming?
+
+Cheyenne
+Saint Paul
+
+What is the capital of Pennsylvania?
+
+Harrisburg
+Bismarck
+
+What is the capital of North Dakota?
+
+Oklahoma City
+
+Bismarck
+What is the capital of Maryland?
+
+Annapolis
+Dover
+
+What is the capital of Ohio?
+
+Columbus
+Hartford
+
+What is the capital of Nebraska?
+
+Hartford
+
+Lincoln
+What is the capital of South Dakota?
+
+Springfield
+
+Pierre
+What is the capital of Oregon?
+
+Phoenix
+
+Salem
+What is the capital of Kansas?
+
+Topeka
+Carson City
+
+What is the capital of Texas?
+
+Austin
+Helena
+
+What is the capital of Idaho?
+
+Richmond
+
+Boise
+What is the capital of Illinois?
+
+Springfield
+Tallahassee
+
+What is the capital of Arkansas?
+
+Little Rock
+Juneau
+
+What is the capital of Maine?
+
+Augusta
+Montpelier
+
+What is the capital of Arizona?
+
+Juneau
+
+Phoenix
+What is the capital of Georgia?
+
+Frankfort
+
+Atlanta
+What is the capital of Mississippi?
+
+Olympia
+
+Jackson
+What is the capital of Connecticut?
+
+Hartford
+Lansing
+
+What is the capital of Tennessee?
+
+Nashville
+Tallahassee
+
+What is the capital of North Carolina?
+
+Des Moines
+
+Raleigh
+What is the capital of Nevada?
+
+Carson City
+Concord
+
+What is the capital of Vermont?
+
+Honolulu
+
+Montpelier
+What is the capital of Missouri?
+
+Indianapolis
+
+Jefferson City
+What is the capital of New York?
+
+Denver
+
+Albany
+What is the capital of Rhode Island?
+
+Providence
+Juneau
+
+What is the capital of Washington?
+
+Columbia
+
+Olympia
+What is the capital of Alabama?
+
+Montgomery
+Indianapolis
+
+What is the capital of Virginia?
+
+Columbus
+
+Richmond
+What is the capital of Oklahoma?
+
+Charleston
+
+Oklahoma City
+What is the capital of Hawaii?
+
+Honolulu
+Santa Fe
+
+What is the capital of South Dakota?
+
+Pierre
+Tallahassee
+
+What is the capital of Mississippi?
+
+Jackson
+Carson City
+
+What is the capital of Missouri?
+
+Jefferson City
+Annapolis
+
+What is the capital of Massachusetts?
+
+Indianapolis
+
+Boston
+What is the capital of Oklahoma?
+
+Oklahoma City
+Boise
+
+What is the capital of Colorado?
+
+Topeka
+
+Denver
+What is the capital of Florida?
+
+Springfield
+
+Tallahassee
+What is the capital of Kentucky?
+
+Frankfort
+Baton Rouge
+
+What is the capital of Vermont?
+
+Atlanta
+
+Montpelier
+What is the capital of Oregon?
+
+Springfield
+
+Salem
+What is the capital of Illinois?
+
+Springfield
+Helena
+
+What is the capital of Nebraska?
+
+Lincoln
+Carson City
+
+What is the capital of Maryland?
+
+Nashville
+
+Annapolis
+What is the capital of New Jersey?
+
+Trenton
+Honolulu
+
+What is the capital of Arizona?
+
+Phoenix
+Montgomery
+
+What is the capital of Washington?
+
+Columbia
+
+Olympia
+What is the capital of Tennessee?
+
+Concord
+
+Nashville
+What is the capital of Virginia?
+
+Richmond
+Helena
+
+What is the capital of Ohio?
+
+Lansing
+
+Columbus
+What is the capital of Minnesota?
+
+Saint Paul
+Honolulu
+
+What is the capital of Arkansas?
+
+Little Rock
+Albany
+
+What is the capital of Maine?
+
+Bismarck
+
+Augusta
+What is the capital of California?
+
+Sacramento
+Cheyenne
+
+What is the capital of Wyoming?
+
+Santa Fe
+
+Cheyenne
+What is the capital of Kansas?
+
+Austin
+
+Topeka
